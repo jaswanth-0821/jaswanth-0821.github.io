@@ -2,22 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: I live in India, where I build the future.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_images/my_image.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,8 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m Jaswanth Reddy, a BTech graduate from [IIT Tirupati](https://www.iittp.ac.in/), specializing in Computer Vision and NLP. I worked as Research Intern in [VAL Labs (IISc)](https://val.cds.iisc.ac.in/), which is ranked 1st in Computer Vision in India according to [CSRankings 2024](https://csrankings.org/#/fromyear/2014/toyear/2024/index?ai&vision&mlmining&nlp&inforet&in). There, I contributed to cutting-edge projects focused on 3D reconstruction and manipulation using Neural Radiance Fields and Gaussian Splatting. After that, I worked with ViSAL Labs, where I developed a memory-based long and short-term tracking model for transformer-based architectures, specializing in single and multi-object tracking.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, at [AutoAlign.ai](https://www.autoalign.ai/), my primary focus is on advancing NLP technologies. I’ve played a pivotal role in developing robust safety guardrails for large language models (LLMs) and led the creation of comprehensive datasets and pipelines for efficient training and testing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+
