@@ -7,19 +7,16 @@ nav: true
 nav_order: 4
 
 images:
-  - assets/img/1.jpg
-  - assets/img/2.jpg
-  - assets/img/3.jpg
-  - assets/img/5.jpg
-  - assets/img/6.jpg
-  - assets/img/7.jpg
-  - assets/img/8.jpg
-  - assets/img/9.jpg
-  - assets/img/10.jpg
-  - assets/img/11.jpg
-  - assets/img/12.jpg
-  - assets/img/7.jpg
-  - assets/img/8.jpg
+  # - assets/img/my_images/_93A2095.jpg
+  - assets/img/my_images/IMG_0053.jpg
+  - assets/img/my_images/IMG_20220101_162437-01.jpeg
+  - assets/img/my_images/IMG_20240511_191351.jpg
+  - assets/img/my_images/IMG-20240721-WA0010.jpg
+  - assets/img/my_images/IMG20220101161717-01.jpeg
+  - assets/img/my_images/PJ_hand.png.jpg
+  - assets/img/my_images/SHI01681.JPG
+  - assets/img/my_images/SHI01146.JPG
+  - assets/img/my_images/IMG_9957.jpg
 ---
 
 <div class="masonry-gallery">
